@@ -1,0 +1,42 @@
+html {
+    background-color: #2d7d95;
+}
+.center{
+  margin:auto;
+  width:50;
+  text-align:center;
+  line-height:150%;
+  font-weight:bold;
+  }
+
+h1 {
+  text-align: center;
+}
+
+
+
+#Address{
+  background-color:#ecf1b0;
+}
+
+
+img {
+   width: 90px;
+   height: 90px;
+   float: left;
+}
+
+#idCard {
+   margin:80px 340px;
+   background-color:#f7c8e3;
+   border: 5px solid black;
+   height: 14em;
+   width: 25em;
+   border-radius: 20px;
+   font-family:Verdana, serif ;
+}
+
+#postFullName{
+  font-size:28px;
+  font-weight:bold;
+}
